@@ -22,3 +22,7 @@
     <th>lahe</th>
   </tr>
 </table>
+
+
+<h2>Üks ilus pilt</h2>
+<img src="pilt.jpg" alt="Stonks" width="700" height="500">
