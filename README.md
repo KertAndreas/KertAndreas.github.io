@@ -5,7 +5,11 @@
 <table>
   <tr>
     <th><h1>IT</h1></th>
+  </tr>
+  <tr>
     <th>on</th>
+  </tr>
+  <tr>
     <th>lahe</th>
   </tr>
 </table>
