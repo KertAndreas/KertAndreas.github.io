@@ -1,3 +1,5 @@
+<body style="background-color:babyblue;">
+
 <h1>Läbi aegade kõige kohutavam veebileht.</h1>
 <h2>Minu tudengikood: 222824IADB.</h2>
 <p>Natuke juttu.
@@ -29,3 +31,4 @@
 
 
 <p>Lehte toetab: <a href="https://taltech.ee/">Taltech.ee</a></p>
+</body>
