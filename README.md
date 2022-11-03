@@ -1,4 +1,4 @@
-<body style="background-color:babyblue;">
+<body style="background-color:powderblue;">
 
 <h1>Läbi aegade kõige kohutavam veebileht.</h1>
 <h2>Minu tudengikood: 222824IADB.</h2>
