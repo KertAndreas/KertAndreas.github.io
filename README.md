@@ -25,4 +25,5 @@
 
 
 <h2>Üks ilus pilt</h2>
-<img src="https://www.dictionary.com/e/wp-content/uploads/2021/09/20210922_atw_memeStonk_800x800-300x300.png" alt="Stonks" width="700" height="500">
+<img src="[https://www.dictionary.com/e/wp-content/uploads/2021/09/20210922_atw_memeStonk_800x800-300x300.png](https://www.investopedia.com/thmb/GcgK7lFrqz0efp4FEAdLAyUWaWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screen_Shot_2019-06-05_at_1.26.32_PM-dac1adde23c240a4825240d08bd977b0.jpg)" alt="Stonks" width="700" height="500">
+
