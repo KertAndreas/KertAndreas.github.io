@@ -25,4 +25,4 @@
 
 
 <h2>Üks ilus pilt</h2>
-<img src="[pilt.jpg](https://www.dictionary.com/e/wp-content/uploads/2021/09/20210922_atw_memeStonk_800x800-300x300.png)" alt="Stonks" width="700" height="500">
+<img src="https://www.dictionary.com/e/wp-content/uploads/2021/09/20210922_atw_memeStonk_800x800-300x300.png" alt="Stonks" width="700" height="500">
