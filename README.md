@@ -1,4 +1,4 @@
-<h1>Minu sait</h1>
+<h1>Läbi aegade kõige kohutavam veebileht.</h1>
 <h2>Minu tudengikood: 222824IADB.</h2>
 <p>Natuke juttu.
    What's the best thing about Switzerland? Idk, but the flag is a big plus.
