@@ -1,3 +1,4 @@
+<html>
 <body style="background-color:powderblue;">
 
 <h1>Läbi aegade kõige kohutavam veebileht.</h1>
@@ -32,3 +33,4 @@
 
 <p>Lehte toetab: <a href="https://taltech.ee/">Taltech.ee</a></p>
 </body>
+</html>
